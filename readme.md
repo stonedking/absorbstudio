@@ -1,3 +1,1 @@
-/ * I MAKE LIFE * /
-FUCK LIFE
-+1
+// New readme.md //
